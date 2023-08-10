@@ -1,0 +1,13 @@
+/* Wenn die Hintergrundfarbe hell ist, setzen Sie die Schriftfarbe auf #2F5496 */
+@media (prefers-color-scheme: light) {
+  p {
+    color: #2F5496;
+  }
+}
+
+/* Wenn die Hintergrundfarbe dunkel ist, setzen Sie die Schriftfarbe auf #D0DBF0 */
+@media (prefers-color-scheme: dark) {
+  p {
+    color: #D0DBF0;
+  }
+}
