@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: light) {
+  p {
+    color: #2F5496;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  p {
+    color: #D0DBF0;
+  }
+}
